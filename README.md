@@ -2,6 +2,7 @@
 
 * 2023
 	* Fase regional
+   		* [Enunciados](https://raw.githubusercontent.com/OCIoficial/2023-10-Regional/pdf/oneside.pdf)
 		* [Problemas](https://github.com/OCIoficial/2023-10-Regional)
 
 * 2022
