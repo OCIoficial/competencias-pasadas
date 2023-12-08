@@ -1,5 +1,14 @@
 # Competencias Pasadas
 
+* 2023
+	* Fase regional
+		* [Problemas](https://github.com/OCIoficial/2023-10-Regional)
+
+* 2022
+	* Fase regional
+		* [Problemas](https://github.com/OCIoficial/2022-10-Regional)
+	* Final nacional
+		* [Problemas](https://github.com/OCIoficial/2022-11-Final)
 * 2021
 	* Ronda 1 online
 		* [Enunciados](https://github.com/OCIoficial/2021-12-Regional/raw/pdf/oneside.pdf)
