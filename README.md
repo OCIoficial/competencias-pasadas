@@ -1,9 +1,29 @@
 # Competencias Pasadas
 
+
+* 2025
+	* Fase regional
+   		* [Enunciados](https://raw.githubusercontent.com/OCIoficial/2025-09-Regional/pdf/oneside.pdf)
+		* [Problemas](https://github.com/OCIoficial/2025-09-Regional)
+    * Fase nacional
+        * [Enunciados](https://raw.githubusercontent.com/OCIoficial/2025-11-Final/pdf/oneside.pdf) 
+		* [Problemas](https://github.com/OCIoficial/2025-11-Final)
+
+* 2024
+	* Fase regional
+   		* [Enunciados](https://raw.githubusercontent.com/OCIoficial/2024-10-Regional/pdf/oneside.pdf)
+		* [Problemas](https://github.com/OCIoficial/2024-10-Regional)
+    * Fase nacional
+        * [Enunciados](https://raw.githubusercontent.com/OCIoficial/2024-12-Final/pdf/oneside.pdf) 
+		* [Problemas](https://github.com/OCIoficial/2024-12-Final)
+
 * 2023
 	* Fase regional
    		* [Enunciados](https://raw.githubusercontent.com/OCIoficial/2023-10-Regional/pdf/oneside.pdf)
 		* [Problemas](https://github.com/OCIoficial/2023-10-Regional)
+    * Fase nacional
+        * [Enunciados](https://raw.githubusercontent.com/OCIoficial/2023-12-Final/pdf/oneside.pdf) 
+		* [Problemas](https://github.com/OCIoficial/2023-12-Final)
 
 * 2022
 	* Fase regional
